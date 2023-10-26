@@ -1,7 +1,7 @@
 """
- Suppose an array of length n sorted in ascending order is rotated between 1 and n times.
- Time - O(logN)
- Space - O(1)
+    Suppose an array of length n sorted in ascending order is rotated between 1 and n times.
+    Time - O(logN)
+    Space - O(1)
 """
 
 
