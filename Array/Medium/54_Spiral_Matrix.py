@@ -1,7 +1,7 @@
 """
 Given an m x n matrix, 
 return all elements of the matrix in spiral order.
-Time - O(n2)
+Time - O(n^2)
 Space - O(n)
 
 """
