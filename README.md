@@ -8,4 +8,7 @@ leetcode practice list
 - Intervals
 - Stack
 - Linked List
+- Binary Tree
+- Dynamic Programming
+  
   
