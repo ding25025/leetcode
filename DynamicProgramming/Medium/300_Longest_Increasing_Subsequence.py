@@ -1,8 +1,8 @@
 """
-Given an integer array nums, return the length of the longest strictly increasing 
-subsequence.
-Time O(nlogn)
-Space O(N)
+    Given an integer array nums, return the length of the longest strictly increasing 
+    subsequence.
+    Time O(nlogn)
+    Space O(N)
 
 """
 
