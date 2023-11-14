@@ -3,6 +3,7 @@
     return the number of islands.
     Time O(M X N)
     Space O(M X N)
+    **BFS**
 """
 
 
