@@ -25,7 +25,7 @@ class Solution:
         visited.add((0, 0))
 
         while k and minHeap:
-            val, i, j = heappop(minHeap)
+            i, j = heappop(minHeap)
             ans.append([nums1[i], nums2[j]])
             if i + 1 < m and (i + 1, j) not in visited:
                 heappush(minHeap, (nums1[i + 1] + nums2[j], i + 1, j))
