@@ -1,6 +1,11 @@
-# leetcode
-leetcode practice list
-- Array and String
+# leetcode practice list
+
+## Data Structure & Algorithm
+- Data Structure : method for store information
+  - Array,String
+- Algorithm：method for solving a problem
+  - Sort,DFS,BFS...
+### Array and String
   - Easy
     - [1_Two_Sum](/Array/Esay/1_Two_Sum.py) *
     - [26_Remove_Duplicates_From_Sorted_Array](/Array/Esay/26_Remove_Duplicates_From_Sorted_Array.py)
@@ -23,14 +28,14 @@ leetcode practice list
     - [30_Substring_with_Concatenation_of_All_Words](/Array/Hard/30_Substring_with_Concatenation_of_All_Words.py)
     - [42_Trapping_Rain_Water](/Array/Hard/42_Trapping_Rain_Water.py)
     - [135_Candy](/Array/Hard/135_Candy.py)
-- Sliding Window
-- Two Pointers
-- Matrix
-- Hashmap
-- Intervals
-- Stack
-- Linked List
-- Binary Tree
-- Dynamic Programming
+### Sliding Window
+### Two Pointers
+### Matrix
+### Hashmap
+### Intervals
+### Stack
+### Linked List
+### Binary Tree
+### Dynamic Programming
   
   
