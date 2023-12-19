@@ -21,20 +21,28 @@
     - [73_Set_Matrix_Zeros](/Array/Medium/73_Set_Matrix_Zeros.py)
     - [134_Gas_Station](/Array/Medium/134_Gas_Station.py)
     - [153_Find_Minimun_In_Rotated_Sorted_Array](/Array/Medium/153_Find_Minimun_In_Rotated_Sorted_Array.py) *
-    - [209_Minimum_Size_Subarray_Sum](/Array/Medium/209_Minimum_Size_Subarray_Sum.py)  * Sliding Window
+    - [209_Minimum_Size_Subarray_Sum](/Array/Medium/209_Minimum_Size_Subarray_Sum.py)  * 
     - [238_Product_of_Array_Expect_Self](/Array/Medium/238_Product_of_Array_Expect_Self.py) *
     - [443_String_Compression](/Array/Medium/443_String_Compression.py)
   - Hard
     - [30_Substring_with_Concatenation_of_All_Words](/Array/Hard/30_Substring_with_Concatenation_of_All_Words.py)
     - [42_Trapping_Rain_Water](/Array/Hard/42_Trapping_Rain_Water.py)
     - [135_Candy](/Array/Hard/135_Candy.py)
-### Sliding Window
-  - Easy  
-  - Medium
-  - Hard
-### Intervals
-### Stack
 ### Linked List
+  - Easy  
+    - [234_Palindrome_Linked_List](/LinkedList/Easy/234_Palindrome_Linked_List.py)
+  - Medium
+    - [19_Remove_Nth_Node_From_End_of_List](/LinkedList/Medium/19_Remove_Nth_Node_From_End_of_List.py)
+    - [61_Rotate_List](/LinkedList/Medium/61_Rotate_List.py)
+    - [82_Remove_Duplicate_from_Sorted_List_2](/LinkedList/Medium/82_Remove_Duplicate_from_Sorted_List_2.py)
+    - [86_Partition_List](/LinkedList/Medium/86_Partition_List.py)
+    - [92_Reverse_Linked_List_2](/LinkedList/Medium/92_Reverse_Linked_List_2.py)
+    - [148_Sort_List](/LinkedList/Medium/148_Sort_List.py)
+  - Hard
+
+### Stack
+### Binary Search
+
 ### Binary Tree
 ### Dynamic Programming
   

@@ -3,7 +3,8 @@
     palindrome or false otherwise.
     ex:[1,2,2,1] =>True  [1,2]=>False
     Tip: use stack
-
+    Time O(n)
+    Space O(n)
 """
 
 
