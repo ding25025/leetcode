@@ -15,7 +15,7 @@ class Solution:
     def removeNthFromEnd(self, head: Optional[ListNode], n: int) -> Optional[ListNode]:
         curr = head
         count = 0
-
+        #calculate nodes
         while curr:
             curr = curr.next
             count += 1
@@ -23,7 +23,7 @@ class Solution:
         check = count - n - 1
         count = 0
         curr = head
-        # remove the last node
+        # return the last node
         if check == -1:
             return head.next
 

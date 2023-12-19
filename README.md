@@ -2,7 +2,7 @@
 
 ## Data Structure & Algorithm
 - Data Structure : method for store information
-  - Array,String
+  - Array,String,Linked List,Stack,Queue
 - Algorithm：method for solving a problem
   - Sort,DFS,BFS...
 ### Array and String
@@ -21,7 +21,7 @@
     - [73_Set_Matrix_Zeros](/Array/Medium/73_Set_Matrix_Zeros.py)
     - [134_Gas_Station](/Array/Medium/134_Gas_Station.py)
     - [153_Find_Minimun_In_Rotated_Sorted_Array](/Array/Medium/153_Find_Minimun_In_Rotated_Sorted_Array.py) *
-    - [209_Minimum_Size_Subarray_Sum](/Array/Medium/209_Minimum_Size_Subarray_Sum.py)
+    - [209_Minimum_Size_Subarray_Sum](/Array/Medium/209_Minimum_Size_Subarray_Sum.py)  * Sliding Window
     - [238_Product_of_Array_Expect_Self](/Array/Medium/238_Product_of_Array_Expect_Self.py) *
     - [443_String_Compression](/Array/Medium/443_String_Compression.py)
   - Hard
@@ -29,9 +29,9 @@
     - [42_Trapping_Rain_Water](/Array/Hard/42_Trapping_Rain_Water.py)
     - [135_Candy](/Array/Hard/135_Candy.py)
 ### Sliding Window
-### Two Pointers
-### Matrix
-### Hashmap
+  - Easy  
+  - Medium
+  - Hard
 ### Intervals
 ### Stack
 ### Linked List
