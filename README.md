@@ -14,6 +14,7 @@
     - [121_Best_Time_to_Buy_and_Sell_Stock](/Array/Esay/121_Best_Time_to_Buy_and_Sell_Stock.py) *
     - [169_Majority_Element](/Array/Esay/169_Majority_Element.py)
   - Medium
+    - [3_Longest_Substring_Without_Repeating_Characters](/Array/Medium/3_Longest_Substring_Without_Repeating_Characters.py)
     - [11_Container_With_Most_Water](/Array/Medium/11_Container_With_Most_Water.py) *
     - [15_3Sum](/Array/Medium/15_3Sum.py) *
     - [48_Rotate_Image](/Array/Medium/48_Rotate_Image.py) *
