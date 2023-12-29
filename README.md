@@ -43,8 +43,31 @@
 
 ### Stack
 ### Binary Search
-
+  - Easy
+    - [35_Search_Insert_Position](/BinarySearch/Easy/35_Search_Insert_Position.py)
+  - Medium
+    - [34_Find_First_and_Last_Position_of_Element_in_Sorted_Array](/BinarySearch/Medium/34_Find_First_and_Last_Position_of_Element_in_Sorted_Array.py)
 ### Binary Tree
+  - Easy
+    - [226_Invert_Binary_Tree](/BinaryTree/Easy/226_Invert_Binary_Tree.py)
+  - Medium
+    - [98_Validate_Search_Tree](/BinaryTree/Medium/98_Validate_Search_Tree.py)
+    - [102_Binary_Tree_Level_Order_Traversal](/BinaryTree/Medium/102_Binary_Tree_Level_Order_Traversal.py)
+    - [103_Binary_Tree_Zigza_Level_Order_Traversal](/BinaryTree/Medium/103_Binary_Tree_Zigza_Level_Order_Traversal.py)
+    - [113_Path_Sum_II](/BinaryTree/Medium/113_Path_Sum_II.py)
+    - [114_Flatten_Binary_Tree_to_Linked_List](/BinaryTree/Medium/114_Flatten_Binary_Tree_to_Linked_List.py)
+    - [129_Sum_Root_To_Leaf_Numbers](/BinaryTree/Medium/129_Sum_Root_To_Leaf_Numbers.py)
+    - [230_kth_Smallest_Element_in_a_BST](/BinaryTree/Medium/230_kth_Smallest_Element_in_a_BST.py)
+    - [236_Lowest_Common_Ancestor_of_a_Binary_Tree](/BinaryTree/Medium/236_Lowest_Common_Ancestor_of_a_Binary_Tree.py)
+  - Hard
 ### Dynamic Programming
+  - Easy
+    - [70_Climbing_Stairs](/DynamicProgramming/Easy/70_Climbing_Stairs.py)
+    - [746_Min_Cost_Climbing_Stairs](/DynamicProgramming/Easy/746_Min_Cost_Climbing_Stairs.py)
+  - Medium
+    - [198_House_Robber](/DynamicProgramming/Medium/198_House_Robber.py)
+    - [300_Longest_Increasing_Subsequence](/DynamicProgramming/Medium/300_Longest_Increasing_Subsequence.py)
+    - [322_Coin_Change](/DynamicProgramming/Medium/322_Coin_Change.py)
+  - Hard
   
   

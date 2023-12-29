@@ -5,6 +5,8 @@
     Output: 3
     Input: s = "bbbbb"
     Output: 1
+    Time O(n)
+    Space O(m) m is the number of unique characters in dictionary
 """
 
 
