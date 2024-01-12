@@ -69,5 +69,10 @@
     - [300_Longest_Increasing_Subsequence](/DynamicProgramming/Medium/300_Longest_Increasing_Subsequence.py)
     - [322_Coin_Change](/DynamicProgramming/Medium/322_Coin_Change.py)
   - Hard
+### Depth First Search(DFS)
+  - Easy
+  - Medium
+    - [841_Keys_and_Rooms.py](/DFS/Medium/841_Keys_and_Rooms.py)
+
   
   
