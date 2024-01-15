@@ -1,7 +1,7 @@
 """
     You are given an integer array coins representing coins of different denominations and an integer amount representing a total amount of money.
     
-    Time O(N*M)
+    Time O(amount*len(coins)) 
     Space O(N)
 """
 
