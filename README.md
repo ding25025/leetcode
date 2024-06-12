@@ -71,6 +71,7 @@
   - Hard
 ### Depth First Search(DFS)
   - Easy
+    - [110_Balanced_Binary_Tree.py](/DFS/Easy/110_Balanced_Binary_Tree.py)
   - Medium
     - [39_Combination_Sum.py](/DFS/Medium/39_Combination_Sum.py)
     - [841_Keys_and_Rooms.py](/DFS/Medium/841_Keys_and_Rooms.py)
