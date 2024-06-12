@@ -54,7 +54,6 @@
     - [98_Validate_Search_Tree](/BinaryTree/Medium/98_Validate_Search_Tree.py)
     - [102_Binary_Tree_Level_Order_Traversal](/BinaryTree/Medium/102_Binary_Tree_Level_Order_Traversal.py)
     - [103_Binary_Tree_Zigza_Level_Order_Traversal](/BinaryTree/Medium/103_Binary_Tree_Zigza_Level_Order_Traversal.py)
-    - [113_Path_Sum_II](/BinaryTree/Medium/113_Path_Sum_II.py)
     - [114_Flatten_Binary_Tree_to_Linked_List](/BinaryTree/Medium/114_Flatten_Binary_Tree_to_Linked_List.py)
     - [129_Sum_Root_To_Leaf_Numbers](/BinaryTree/Medium/129_Sum_Root_To_Leaf_Numbers.py)
     - [230_kth_Smallest_Element_in_a_BST](/BinaryTree/Medium/230_kth_Smallest_Element_in_a_BST.py)
@@ -74,6 +73,8 @@
     - [110_Balanced_Binary_Tree.py](/DFS/Easy/110_Balanced_Binary_Tree.py)
   - Medium
     - [39_Combination_Sum.py](/DFS/Medium/39_Combination_Sum.py)
+    - [113_Path_Sum_II](/DFS/Medium/113_Path_Sum_II.py)
+    - [437_Path_Sum_III](/DFS/Medium/437_Path_Sum_III.py)
     - [841_Keys_and_Rooms.py](/DFS/Medium/841_Keys_and_Rooms.py)
 
   
