@@ -70,12 +70,18 @@
   - Hard
 ### Depth First Search(DFS)
   - Easy
-    - [110_Balanced_Binary_Tree.py](/DFS/Easy/110_Balanced_Binary_Tree.py)
+    - [110_Balanced_Binary_Tree](/DFS/Easy/110_Balanced_Binary_Tree.py)
   - Medium
-    - [39_Combination_Sum.py](/DFS/Medium/39_Combination_Sum.py)
+    - [39_Combination_Sum](/DFS/Medium/39_Combination_Sum.py)
     - [113_Path_Sum_II](/DFS/Medium/113_Path_Sum_II.py)
     - [437_Path_Sum_III](/DFS/Medium/437_Path_Sum_III.py)
-    - [841_Keys_and_Rooms.py](/DFS/Medium/841_Keys_and_Rooms.py)
-
+    - [841_Keys_and_Rooms](/DFS/Medium/841_Keys_and_Rooms.py)
+### Graph 
+  - Easy
+  - Medium
+    - [79_Word_Search](/Graph/Medium/79_Word_Search.py)
+    - [200_Number_of_Islands](/Graph/Medium/200_Number_of_Islands.py)
+    - [399_Evaluate_Division](/Graph/Medium/399_Evaluate_Division.py)
+  - Hard
   
   
