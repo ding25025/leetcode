@@ -1,8 +1,8 @@
 """
     Given an array of points where points[i] = [xi, yi] represents a point on the X-Y plane and an integer k, 
     return the k closest points to the origin (0, 0).
-    Time:
-    Space:
+    Time:O(nlogn)
+    Space:O(k)
 """
 
 from heapq import heapify, heappop, heappush
