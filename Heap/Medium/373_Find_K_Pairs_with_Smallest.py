@@ -5,12 +5,14 @@
     Space O(k)
 """
 
+from heapq import heappush, heappop
+
 
 class Solution:
+
     def kSmallestPairs(
         self, nums1: List[int], nums2: List[int], k: int
     ) -> List[List[int]]:
-        from heapq import heappush, heappop
 
         if not nums1 or not nums2:
             return []

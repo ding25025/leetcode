@@ -85,3 +85,8 @@
   - Hard
   
   
+### Heap
+  - Easy
+  - Medium
+    - [373_Find_K_Pairs_with_Smallest](/Heap/Medium/373_Find_K_Pairs_with_Smallest.py)
+    - [973_K_Closest_Points_to_Origin](/Heap/Medium/973_K_Closest_Points_to_Origin.py)
